@@ -1,7 +1,7 @@
-# wsse-header-generator-javascript (WSDL header generator javascript)  
+# SOAP-wsse-header-generator-javascript (WSDL header generator javascript)  
 # NONCE, CREATED and passwordDigest
   
-Utility to add header to wsdl services
+Utility to add header to wsdl services (SOAP Services)
 
 The result of the variables are :
 
