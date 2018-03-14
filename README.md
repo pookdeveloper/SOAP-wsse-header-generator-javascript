@@ -1,4 +1,4 @@
-# wsse-header-generator-javascript
+# wsse-header-generator-javascript (WSDL header generator javascript)
 
 Utility to add header to wsdl services
 
